@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    margin: 3rem;
+}
+
+.heading {
+
+}
+
+.elements {
+    /* border: 1px solid gray; */
+    list-style-type: none;
+}
+
+.container2 {
+    padding-bottom: 2px;
+}
