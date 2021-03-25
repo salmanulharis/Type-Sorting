@@ -4,7 +4,6 @@ function alphanumeric()
     if(inputtxt.value.match(/^[0-9]+$/))
         {
         var node = document.createElement("LI");
-        // var btn = document.createElement("BUTTON");
         var x = inputtxt.value;
         node.append(x);
         document.getElementById("numeric").append(node);
